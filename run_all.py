@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-CAFÉ-GB – Paper 1
+CAFÉ-GB 
 Master Experiment Runner (Final, Baseline-Fixed)
 
 Supports:
