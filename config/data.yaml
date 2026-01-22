@@ -1,0 +1,10 @@
+datasets:
+  andmal2020:
+    train: /Datasets/andmal2020/train.parquet
+    test:  /Datasets/andmal2020/test.parquet
+    target_column: class
+
+  bodmas:
+    train: /Datasets/bodmas/train.parquet
+    test: /Datasets/bodmas/test.parquet
+    target_column: Label

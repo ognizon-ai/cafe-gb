@@ -1,0 +1,17 @@
+classification_metrics:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1
+  - MCC
+  - ROC_AUC
+  - PR_AUC
+
+feature_selection_metrics:
+  - Num_Features
+  - Jaccard_Stability
+  - Mean_Correlation
+
+efficiency_metrics:
+  - Runtime_Seconds
+  - Peak_Memory_MB

@@ -1,0 +1,7 @@
+feature_selection_methods:
+  - NoFS
+  - MutualInformation
+  - ChiSquare
+  - L1Logistic
+  - SHAP_GB
+  - CAFE_GB
